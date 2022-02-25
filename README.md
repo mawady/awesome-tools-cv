@@ -42,7 +42,12 @@
 - [Testfully](https://testfully.io)
 - [Insomnia](https://insomnia.rest)
 ---
-## Deep learning frameworks (PyTorch, Tensorflow, Keras)
+## Deep learning frameworks
+- [PyTorch](https://pytorch.org)
+- [Tensorflow](https://www.tensorflow.org)
+- [Keras](https://keras.io)
+- [Theano](https://github.com/Theano/Theano) (discontinued)
+- [Caffe](https://caffe.berkeleyvision.org) (discontinued)
 ---
 ## ML management and experimentation (MLflow, Airflow, Wandb, neptune.ai, DVC)
 --- 
