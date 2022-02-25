@@ -1,2 +1,3 @@
-# awesome-devops-cv
-A curated list of DevOps tools for Computer Vision
+# A curated list of tools for Computer Vision projects
+---
+## 
