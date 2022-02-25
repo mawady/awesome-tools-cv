@@ -6,24 +6,41 @@
 ---
 ## Python environment / package managers (pip, pipenv, pypoetry, conda)
 ---
-## Container management (Docker, Kubernetes)
+## Container management
+- [Docker](https://www.docker.com) (recommended)
+- [Kubernetes](https://kubernetes.io) (recommended)
 ---
 ## IDE and extensions
-- Recommended: [VSCode](https://code.visualstudio.com)
+- [VSCode](https://code.visualstudio.com) (recommended)
 - [Eclipse](https://www.eclipse.org)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 ---
-## Cloud computing service providers (GCP, AWS, Azure)
+## Cloud computing service providers
+- [AWS](https://aws.amazon.com) (recommended)
+- [GCP](https://cloud.google.com)
+- [Azure](https://azure.microsoft.com/)
 ---
-## NoSQL databases (MongoDB, Cassandra)
+## NoSQL databases
+- [MongoDB](https://www.mongodb.com) (recommended)
+- [Cassandra](https://cassandra.apache.org/)
 ---
-## SQL databases (Oracle, MySQL, PostgreSQL)
+## SQL databases
+- [MySQL](https://www.mysql.com) (recommended)
+- [Oracle](https://www.oracle.com/database/)
+- [PostgreSQL](https://www.postgresql.org)
 ---
-## In-memory databases (Redis, Memcached)
+## In-memory database
+- [Redis](https://redis.io)
+- [Memcached](https://memcached.org)
 ---
-## Distributed streaming platform (Kafka)
+## Distributed streaming platform
+- [Kafka](https://kafka.apache.org)
 ---
-## API development tools (Postman, Testfully, Insomnia, Thunder Client)
+## API development tools
+- [Thunder Client](https://www.thunderclient.com)
+- [Postman](https://www.postman.com)
+- [Testfully](https://testfully.io)
+- [Insomnia](https://insomnia.rest)
 ---
 ## Deep learning frameworks (PyTorch, Tensorflow, Keras)
 ---
