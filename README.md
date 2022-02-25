@@ -8,7 +8,10 @@
 ---
 ## Container management (Docker, Kubernetes)
 ---
-## IDE and extensions (VSCode, PyCharm, Eclipse)
+## IDE and extensions
+- Recommended: [VSCode](https://code.visualstudio.com)
+- [Eclipse](https://www.eclipse.org)
+- [PyCharm](https://www.jetbrains.com/pycharm/)
 ---
 ## Cloud computing service providers (GCP, AWS, Azure)
 ---
