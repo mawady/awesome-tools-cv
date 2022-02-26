@@ -1,4 +1,4 @@
-# A curated list of development and deployment tools for Computer Vision projects
+# A curated list of development and deployment tools for Computer Vision projects using Python language
 ---
 ## Data serialization languages (JSON, YAML, XML)
 ---
