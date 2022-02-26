@@ -1,11 +1,5 @@
 # A curated list of development and deployment tools for Computer Vision projects using Python language
 ---
-## Data serialization languages (JSON, YAML, XML)
----
-## Ways to save/load data to/from files (CSV, JSON, H5Py, Pickle, NumPy)
----
-## Python environment / package managers (pip, pipenv, pypoetry, conda)
----
 ## Container management
 - [Docker](https://www.docker.com) (recommended)
 - [Kubernetes](https://kubernetes.io) (recommended)
@@ -30,7 +24,7 @@
 - [PostgreSQL](https://www.postgresql.org)
 ---
 ## In-memory database
-- [Redis](https://redis.io)
+- [Redis](https://redis.io) (recommended)
 - [Memcached](https://memcached.org)
 ---
 ## Distributed streaming platform
@@ -38,7 +32,7 @@
 ---
 ## API development tools
 - [Thunder Client](https://www.thunderclient.com)
-- [Postman](https://www.postman.com)
+- [Postman](https://www.postman.com) (recommended)
 - [Testfully](https://testfully.io)
 - [Insomnia](https://insomnia.rest)
 ---
@@ -70,4 +64,8 @@
 - [SciPy](https://scipy.org)
 - [Pandas](https://pandas.pydata.org)
 ---
-
+## Data serialization languages (JSON, YAML, XML)
+---
+## Ways to save/load data to/from files (CSV, JSON, H5Py, Pickle, NumPy)
+---
+## Python environment / package managers (pip, pipenv, pypoetry, conda)
