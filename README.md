@@ -43,16 +43,31 @@
 - [Insomnia](https://insomnia.rest)
 ---
 ## Deep learning frameworks
-- [PyTorch](https://pytorch.org)
+- [PyTorch](https://pytorch.org) (recommended)
 - [Tensorflow](https://www.tensorflow.org)
 - [Keras](https://keras.io)
 - [Theano](https://github.com/Theano/Theano) (discontinued)
 - [Caffe](https://caffe.berkeleyvision.org) (discontinued)
 ---
-## ML management and experimentation (MLflow, Airflow, Wandb, neptune.ai, DVC)
+## ML management and experimentation
+- [MLflow](https://mlflow.org)
+- [Airflow](https://airflow.apache.org)
+- [WandB](https://wandb.ai) (recommended)
+- [neptune.ai](https://neptune.ai)
+- [DVC](https://dvc.org)
 --- 
-## Data augmentation frameworks for computer vision (albumentations, imgaug, augmentor)
+## Data augmentation frameworks for computer vision
+- [albumentations](https://albumentations.ai) (recommended)
+- [imgaug](https://imgaug.readthedocs.io/en/latest/)
+- [augmentor](https://augmentor.readthedocs.io/en/master/)
 ---
-## Important libraries for computer vision (NumPy, OpenCV, PIL, Matplotlib, scikit-learn, SciPy, Pandas)
+## Important libraries for computer vision
+- [NumPy](https://numpy.org)
+- [OpenCV](https://opencv.org)
+- [PIL](https://pillow.readthedocs.io/)
+- [Matplotlib](https://matplotlib.org)
+- [scikit-learn](https://scikit-learn.org/)
+- [SciPy](https://scipy.org)
+- [Pandas](https://pandas.pydata.org)
 ---
 
