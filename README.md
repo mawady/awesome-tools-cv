@@ -4,7 +4,7 @@
 - [Docker](https://www.docker.com) (recommended)
 - [Kubernetes](https://kubernetes.io) (recommended)
 ---
-## IDE and extensions
+## IDEs
 - [VSCode](https://code.visualstudio.com) (recommended)
 - [Eclipse](https://www.eclipse.org)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
