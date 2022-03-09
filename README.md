@@ -64,6 +64,19 @@
 - [SciPy](https://scipy.org)
 - [Pandas](https://pandas.pydata.org)
 ---
+## Books
+- Aditya Bhargava. “Grokking Algorithms: An illustrated guide for programmers and other curious people, 1st Edition.” (2016) [[goodreads](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)]
+- John Z. Sonmez. “Soft Skills: The Software Developer's Life Manual, 2nd edition.” (2021) [[goodreads](https://www.goodreads.com/book/show/59727347-soft-skills)]
+- Tom DeMarco and Timothy R. Lister. “Peopleware: Productive Projects and Teams, 3rd Edition.” (2016) [[goodreads](https://www.goodreads.com/book/show/67825.Peopleware)]
+- Michael C. Feathers. “Working Effectively with Legacy Code, 1st edition.” (2004) [[goodreads](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)]
+- Jon L. Bentley. “Programming Pearls, 2nd edition.” (1999) [[goodreads](https://www.goodreads.com/book/show/35625104-programming-pearls)]
+- Steve McConnell. “Code Complete, 2nd edition.” (2004) [[goodreads](https://www.goodreads.com/book/show/4845.Code_Complete)]
+- Robert C. Martin. “Clean Code: A Handbook of Agile Software Craftsmanship, 1st edition.” (2008) [[goodreads](https://www.goodreads.com/book/show/3735293-clean-code)]
+- Andy Hunt and Dave Thomas. “The Pragmatic Programmer: From Journeyman to Master, 2nd edition.” (2019) [[goodreads](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)]
+- Frederick P. Brooks Jr.. “The Mythical Man-Month: Essays on Software Engineering, 2nd edition.” (1995) [[goodreads](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month)]
+- Martin Fowler. “Refactoring: Improving the Design of Existing Code, 2nd edition.” (2019) [[goodreads](https://www.goodreads.com/book/show/44936.Refactoring)]
+- Eric Freeman, Kathy Sierra, Bert Bates, Elisabeth Robson. “Head First Design Patterns, 2nd edition.” (2021) [[goodreads](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns)]
+---
 ## Data serialization languages (JSON, YAML, XML)
 ---
 ## Ways to save/load data to/from files (CSV, JSON, H5Py, Pickle, NumPy)
