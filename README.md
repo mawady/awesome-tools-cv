@@ -1,4 +1,4 @@
-# A curated list of development and deployment tools for Computer Vision projects using Python language
+# A curated list of development and deployment tools for Computer Vision projects in Python
 ---
 ## Container management
 - [Docker](https://www.docker.com) (recommended)
@@ -69,6 +69,12 @@
 - [Chrome Remote Desktop -- Free/Proprietary](https://remotedesktop.google.com)
 - [AnyDesk -- Free Personal/Proprietary](https://anydesk.com/)
 - [TeamViewer-- Free Personal/Proprietary](https://www.teamviewer.com/)
+---
+## Building interactive python code validation over webpages/LMS
+- [PyScript](https://github.com/pyscript/pyscript)
+- [DataCamp Light](https://github.com/datacamp/datacamp-light)
+- [CodeRunner -- Moodle Plugin](https://coderunner.org.nz)
+- [VPL -- Moodle Plugin](https://vpl.dis.ulpgc.es)
 ---
 ## Data serialization languages (JSON, YAML, XML)
 ---
