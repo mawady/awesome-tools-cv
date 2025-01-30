@@ -49,6 +49,8 @@
 - [WandB](https://wandb.ai) (recommended)
 - [neptune.ai](https://neptune.ai)
 - [DVC](https://dvc.org)
+- [ClearML](https://clear.ml)
+- [TensorBoard](https://github.com/tensorflow/tensorboard)
 --- 
 ## Data augmentation frameworks for computer vision
 - [albumentations](https://albumentations.ai) (recommended)
