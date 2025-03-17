@@ -15,6 +15,7 @@
 - [Application Development](#application-development)
 - [Web Hosting Platforms](#web-hosting-platforms)
 - [Application Testing](#application-testing)
+- [Continuous Integration (CI) and Continuous Deployment (CD)](#continuous-integration-ci-and-continuous-deployment-cd)
 - [Error Monitoring Tools](#error-monitoring-tools)
 - [Miscellaneous](#miscellaneous)
 
@@ -133,6 +134,15 @@
 - WAVE Evaluation Tool `web`: [[Chrome Extension](https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)] | [[Website](https://wave.webaim.org)]
 - Lighthouse `web | desktop`: [[Chrome Extension](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)] | [[Github](https://github.com/GoogleChrome/lighthouse)]
 - Lighthouse `mobile | web | desktop`: [[Wesbite](http://appium.io)] | [[Github](https://github.com/appium/appium)]
+
+---
+
+## Continuous Integration (CI) and Continuous Deployment (CD)
+
+- Jenkins
+- CircleCI
+- Travis CI
+- GitHub Actions
 
 ---
 
