@@ -54,6 +54,7 @@
 - Luigi: [[Github](https://github.com/spotify/luigi)]
 - TensorFlow Extended (TFX): [[website](https://tensorflow.github.io/tfx/)] | [[Github](https://github.com/tensorflow/tfx)]
 - Flyte: [[website](https://flyte.org)] | [[Github](https://github.com/flyteorg/flyte)]
+- Ploomber: [[website](https://docs.ploomber.io/en/latest/)] | [[Github](https://github.com/ploomber/ploomber)]
 
 ---
 
