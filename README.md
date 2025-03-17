@@ -139,10 +139,10 @@
 
 ## Continuous Integration (CI) and Continuous Deployment (CD)
 
-- Jenkins
-- CircleCI
-- Travis CI
-- GitHub Actions
+- Jenkins: [[Wesbite](https://www.jenkins.io/)] | [[Github](https://github.com/jenkinsci/jenkins)]
+- CircleCI: [[Wesbite](https://circleci.com/)]
+- Travis CI: [[Wesbite](https://travis-ci.org/)] | [[Github](https://github.com/travis-ci/travis-ci)]
+- GitHub Actions: [[Wesbite](https://github.com/features/actions)]
 
 ---
 
@@ -179,12 +179,16 @@
   - mamba: [[Website](https://mamba.readthedocs.io/)] | [[GitHub](https://github.com/mamba-org/mamba)]
   - uv: [[Website](https://docs.astral.sh/uv)] | [[GitHub](https://github.com/astral-sh/uv)] *(recommended)*
 - Data Serialization Formats
-  - JSON
-  - YAML
-  - XML
+  - `JSON`: Fast for parsing, used for API communications and web applications.
+  - `YAML`: Human-readable format, used for DevOps purposes (i.e. Docker Compose).
+  - `XML`: Used for document storage and web services (i.e. SOAP).
 - File Data Storage Formats
-  - CSV
-  - JSON
-  - H5Py
-  - Pickle
-  - NumPy
+  - `CSV`: Ideal for structured tabular data that requires a human-readable format.
+  - `JSON`: Best for storing hierarchical data, such as API responses and configurations.
+  - `H5Py`: Designed for large scientific datasets that require efficient storage and retrieval.
+  - `Pickle`: Used for saving and loading Python objects, but avoid for long-term storage due to limited cross-language support (Python-only).
+  - `NumPy`: Optimized for fast and efficient storage of numerical data, particularly arrays.
+  - `Optimized Row Columnar (ORC)`: Suitable for streaming large data with cross-language support.
+  - `Parquet`: Used for faster storage in a columnar format. *(recommended)*
+  - `MessagePack`: Provides compact and fast serialization for large structured data, with support for streaming without compression. *(recommended)*
+
