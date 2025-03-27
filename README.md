@@ -168,16 +168,15 @@
   - PyCharm: [[website](https://www.jetbrains.com/pycharm/)]
   - Eclipse: [[website](https://www.eclipse.org)]
 - Remote Desktop Tools
-  - RustDesk: [[website](https://rustdesk.com)] *(recommended)*
+  - RustDesk: [[website](https://rustdesk.com)] [[Github](https://github.com/rustdesk/rustdesk)] *(recommended)*
   - Chrome Remote Desktop: [[website](https://remotedesktop.google.com)]
   - AnyDesk: [[website](https://anydesk.com/)]
   - TeamViewer: [[website](https://www.teamviewer.com/)]
 - Python environment / package managers
   - pip: [[Website](https://pypi.org)] | [[GitHub](https://github.com/pypa/pip)]
-  - pipenv: [[Website](https://pipenv.pypa.io/en/latest/)] | [[GitHub](https://github.com/pypa/pipenv)]
+  - pipenv + pyenv: [[Website-pipenv](https://pipenv.pypa.io/en/latest/)] | [[GitHub-pipenv](https://github.com/pypa/pipenv)] | [[Github-pyenv](https://github.com/pyenv/pyenv)] *(recommended)*
   - Poetry: [[Website](https://python-poetry.org/)] | [[GitHub](https://github.com/python-poetry/poetry)]
-  - Conda: [[Website](https://docs.conda.io/projects/conda/)] | [[GitHub](https://github.com/conda/conda)]
-  - mamba: [[Website](https://mamba.readthedocs.io/)] | [[GitHub](https://github.com/mamba-org/mamba)]
+  - Conda + mamba: [[Website-Conda](https://docs.conda.io/projects/conda/)] | [[Website-mamba](https://mamba.readthedocs.io/)] | [[GitHub-Conda](https://github.com/conda/conda)] | [[GitHub-mamba](https://github.com/mamba-org/mamba)] 
   - uv: [[Website](https://docs.astral.sh/uv)] | [[GitHub](https://github.com/astral-sh/uv)] *(recommended)*
 - Data Serialization Formats
   - `JSON`: Fast for parsing, used for API communications and web applications.
@@ -190,5 +189,5 @@
   - `Pickle`: Used for saving and loading Python objects, but avoid for long-term storage due to limited cross-language support (Python-only).
   - `NumPy`: Optimized for fast and efficient storage of numerical data, particularly arrays.
   - `Optimized Row Columnar (ORC)`: Suitable for streaming large data with cross-language support.
-  - `Parquet`: Used for faster storage in a columnar format. *(recommended)*
-  - `MessagePack`: Provides compact and fast serialization for large structured data, with support for streaming without compression. *(recommended)*
+  - `Parquet`: Used for faster storage in a columnar format. *(recommended instead of `NumPy`)*
+  - `MessagePack`: Provides compact and fast serialization for large structured data, with support for streaming without compression. *(recommended instead of `Pickle`)*
