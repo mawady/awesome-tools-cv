@@ -41,20 +41,21 @@
 
 ## Machine Learning Management and Experimentation
 
+- Airflow `Workflow Orchestration`: [[website](https://airflow.apache.org)] | [[Github](https://github.com/apache/airflow)]
+- Prefect `Workflow Orchestration`: [[website](https://www.prefect.io)] | [[Github](https://github.com/PrefectHQ/prefect)]
+- Dagster `Workflow Orchestration`: [[website](https://dagster.io/)] | [[Github](https://github.com/dagster-io/dagster)]
+- Luigi `Workflow Orchestration`: [[Github](https://github.com/spotify/luigi)]
+- Flyte `Workflow Orchestration`: [[website](https://flyte.org)] | [[Github](https://github.com/flyteorg/flyte)]
+- Metaflow `Workflow Orchestration`: [[website](https://metaflow.org)] | [[Github](https://github.com/Netflix/metaflow)]
+- Ploomber `Workflow Orchestration`: [[website](https://docs.ploomber.io/en/latest/)] | [[Github](https://github.com/ploomber/ploomber)]
 - MLflow: [[website](https://mlflow.org)]
-- Airflow: [[website](https://airflow.apache.org)]
 - WandB: [[website](https://wandb.ai)] *(recommended)*
 - neptune ai: [[website](https://neptune.ai)]
 - DVC: [[website](https://dvc.org)]
 - ClearML: [[website](https://clear.ml)]
 - TensorBoard: [[website](https://github.com/tensorflow/tensorboard)]
-- Prefect: [[website](https://www.prefect.io)] | [[Github](https://github.com/PrefectHQ/prefect)]
 - NiFi: [[website](https://nifi.apache.org)] | [[Github](https://github.com/apache/nifi)]
-- Metaflow: [[website](https://metaflow.org)] | [[Github](https://github.com/Netflix/metaflow)]
-- Luigi: [[Github](https://github.com/spotify/luigi)]
 - TensorFlow Extended (TFX): [[website](https://tensorflow.github.io/tfx/)] | [[Github](https://github.com/tensorflow/tfx)]
-- Flyte: [[website](https://flyte.org)] | [[Github](https://github.com/flyteorg/flyte)]
-- Ploomber: [[website](https://docs.ploomber.io/en/latest/)] | [[Github](https://github.com/ploomber/ploomber)]
 
 ---
 
@@ -137,6 +138,7 @@
 - Appium `mobile | web | desktop`: [[Wesbite](http://appium.io)] | [[Github](https://github.com/appium/appium)]
 - Playwright `web`:  [[Wesbite](https://playwright.dev)] | [[Github](https://github.com/microsoft/playwright)]
 - Maestro `mobile | web`: [[Wesbite](https://www.maestro.dev)] | [[Github](https://github.com/mobile-dev-inc/Maestro)]
+- flashlight `mobile`: [[Wesbite](https://docs.flashlight.dev/)] | [[Github](https://github.com/bamlab/flashlight)]
 
 ---
 
