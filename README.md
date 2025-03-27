@@ -134,7 +134,9 @@
 - axe DevTools `web`: [[Chrome Extension](https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)] | [[Github](https://github.com/dequelabs/axe-core)]
 - WAVE Evaluation Tool `web`: [[Chrome Extension](https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)] | [[Website](https://wave.webaim.org)]
 - Lighthouse `web | desktop`: [[Chrome Extension](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)] | [[Github](https://github.com/GoogleChrome/lighthouse)]
-- Lighthouse `mobile | web | desktop`: [[Wesbite](http://appium.io)] | [[Github](https://github.com/appium/appium)]
+- Appium `mobile | web | desktop`: [[Wesbite](http://appium.io)] | [[Github](https://github.com/appium/appium)]
+- Playwright `web`:  [[Wesbite](https://playwright.dev)] | [[Github](https://github.com/microsoft/playwright)]
+- Maestro `mobile | web`: [[Wesbite](https://www.maestro.dev)] | [[Github](https://github.com/mobile-dev-inc/Maestro)]
 
 ---
 
