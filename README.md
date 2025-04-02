@@ -23,46 +23,46 @@
 
 ## Deep Learning Frameworks
 
-- PyTorch: [[website](https://pytorch.org)] *(recommended)*
-- TensorFlow: [[website](https://www.tensorflow.org)]
-- Keras: [[website](https://keras.io)]
-- Theano: [[website](https://github.com/Theano/Theano)] *(discontinued)*
-- Caffe: [[website](https://caffe.berkeleyvision.org)] *(discontinued)*
+- PyTorch: [[Website](https://pytorch.org)] *(recommended)*
+- TensorFlow: [[Website](https://www.tensorflow.org)]
+- Keras: [[Website](https://keras.io)]
+- Theano: [[Website](https://github.com/Theano/Theano)] *(discontinued)*
+- Caffe: [[Website](https://caffe.berkeleyvision.org)] *(discontinued)*
 
 ---
 
 ## Data Augmentation Frameworks
 
-- albumentations: [[website](https://albumentations.ai)] *(recommended)*
-- imgaug: [[website](https://imgaug.readthedocs.io/en/latest/)]
-- augmentor: [[website](https://augmentor.readthedocs.io/en/master/)]
+- albumentations: [[Website](https://albumentations.ai)] *(recommended)*
+- imgaug: [[Website](https://imgaug.readthedocs.io/en/latest/)]
+- augmentor: [[Website](https://augmentor.readthedocs.io/en/master/)]
 
 ---
 
 ## Machine Learning Management and Experimentation
 
-- Airflow `Workflow Orchestration`: [[website](https://airflow.apache.org)] | [[Github](https://github.com/apache/airflow)]
-- Prefect `Workflow Orchestration`: [[website](https://www.prefect.io)] | [[Github](https://github.com/PrefectHQ/prefect)]
-- Dagster `Workflow Orchestration`: [[website](https://dagster.io/)] | [[Github](https://github.com/dagster-io/dagster)]
+- Airflow `Workflow Orchestration`: [[Website](https://airflow.apache.org)] | [[Github](https://github.com/apache/airflow)] *(recommended for commercial use)*
+- Prefect `Workflow Orchestration`: [[Website](https://www.prefect.io)] | [[Github](https://github.com/PrefectHQ/prefect)]
+- Dagster `Workflow Orchestration`: [[Website](https://dagster.io/)] | [[Github](https://github.com/dagster-io/dagster)]
 - Luigi `Workflow Orchestration`: [[Github](https://github.com/spotify/luigi)]
-- Flyte `Workflow Orchestration`: [[website](https://flyte.org)] | [[Github](https://github.com/flyteorg/flyte)]
-- Metaflow `Workflow Orchestration`: [[website](https://metaflow.org)] | [[Github](https://github.com/Netflix/metaflow)]
-- Ploomber `Workflow Orchestration`: [[website](https://docs.ploomber.io/en/latest/)] | [[Github](https://github.com/ploomber/ploomber)]
-- MLflow: [[website](https://mlflow.org)]
-- WandB: [[website](https://wandb.ai)] *(recommended)*
-- neptune ai: [[website](https://neptune.ai)]
-- DVC: [[website](https://dvc.org)]
-- ClearML: [[website](https://clear.ml)]
-- TensorBoard: [[website](https://github.com/tensorflow/tensorboard)]
-- NiFi: [[website](https://nifi.apache.org)] | [[Github](https://github.com/apache/nifi)]
-- TensorFlow Extended (TFX): [[website](https://tensorflow.github.io/tfx/)] | [[Github](https://github.com/tensorflow/tfx)]
+- Flyte `Workflow Orchestration`: [[Website](https://flyte.org)] | [[Github](https://github.com/flyteorg/flyte)] *(recommended for Kubernetes use)*
+- Metaflow `Workflow Orchestration`: [[Website](https://metaflow.org)] | [[Github](https://github.com/Netflix/metaflow)] *(recommended for AWS use)*
+- Ploomber `Workflow Orchestration`: [[Website](https://docs.ploomber.io/en/latest/)] | [[Github](https://github.com/ploomber/ploomber)] *(recommended for notebook use)*
+- NiFi `Workflow Orchestration`: [[Website](https://nifi.apache.org)] | [[Github](https://github.com/apache/nifi)]
+- TensorFlow Extended (TFX) `Workflow Orchestration`: [[Website](https://tensorflow.github.io/tfx/)] | [[Github](https://github.com/tensorflow/tfx)]
+- MLflow `Experiment Tracking & Management`: [[Website](https://mlflow.org)] |[[Github](https://github.com/mlflow/mlflow)] *(recommended for commercial use)*
+- WandB `Experiment Tracking & Management`: [[Website](https://wandb.ai)] | [[Github](https://github.com/wandb/wandb)] *(recommended for personal & academic use)*
+- neptune ai `Experiment Tracking & Management`: [[Website](https://neptune.ai)] |[[Github](https://github.com/neptune-ai/neptune-client)]
+- ClearML `Experiment Tracking & Management`: [[Website](https://clear.ml)] | [[Github](https://github.com/clearml/clearml)]
+- TensorBoard `Experiment Tracking & Management`: [[Website](https://www.tensorflow.org/tensorboard)] | [[Github](https://github.com/tensorflow/tensorboard)]
+- DVC `Data Versioning`: [[Website](https://dvc.org)] | [[Github](https://github.com/iterative/dvc)]
 
 ---
 
 ## Container Management
 
-- Docker: [[website](https://www.docker.com)] *(recommended)*
-- Kubernetes: [[website](https://kubernetes.io)] *(recommended)*
+- Docker: [[Website](https://www.docker.com)] *(recommended)*
+- Kubernetes: [[Website](https://kubernetes.io)] *(recommended)*
 - Incus: [[github](https://github.com/lxc/incus)]
 - Podman: [[github](https://github.com/containers/podman)]
 - Buildah: [[github](https://github.com/containers/buildah)]
@@ -71,62 +71,62 @@
 
 ## Cloud Computing Service Providers
 
-- AWS: [[website](https://aws.amazon.com)] *(recommended)*
-- GCP: [[website](https://cloud.google.com)]
-- Azure: [[website](https://azure.microsoft.com/)]
+- AWS: [[Website](https://aws.amazon.com)] *(recommended)*
+- GCP: [[Website](https://cloud.google.com)]
+- Azure: [[Website](https://azure.microsoft.com/)]
 
 ---
 
 ## Cheap GPU Training Providers
 
-- Vast AI: [[website](https://vast.ai)] *(recommended)*
-- Colab Pro: [[website](https://colab.research.google.com/signup)] *(recommended)*
-- Paperspace: [[website](https://www.paperspace.com)]
-- Lambda: [[website](https://lambdalabs.com/service/gpu-cloud/1-click-clusters)]
-- RunPod: [[website](https://www.runpod.io)]
+- Vast AI: [[Website](https://vast.ai)] *(recommended)*
+- Colab Pro: [[Website](https://colab.research.google.com/signup)] *(recommended)*
+- Paperspace: [[Website](https://www.paperspace.com)]
+- Lambda: [[Website](https://lambdalabs.com/service/gpu-cloud/1-click-clusters)]
+- RunPod: [[Website](https://www.runpod.io)]
 
 ---
 
 ## Storage
 
-- MongoDB `NoSQL`: [[website](https://www.mongodb.com)] *(recommended)*
-- Cassandra `NoSQL`: [[website](https://cassandra.apache.org/)]
-- MySQL `SQL`: [[website](https://www.mysql.com)]
-- PostgreSQL `SQL`: [[website](https://www.postgresql.org)] *(recommended)*
-- Oracle `SQL`: [[website](https://www.oracle.com/database/)]
-- Redis `In-Memory`: [[website](https://redis.io)] *(recommended)*
-- Memcached `In-Memory`: [[website](https://memcached.org)]
-- Kafka `Distributed Streaming`: [[website](https://kafka.apache.org)]
+- MongoDB `NoSQL`: [[Website](https://www.mongodb.com)] *(recommended)*
+- Cassandra `NoSQL`: [[Website](https://cassandra.apache.org/)]
+- MySQL `SQL`: [[Website](https://www.mysql.com)]
+- PostgreSQL `SQL`: [[Website](https://www.postgresql.org)] *(recommended)*
+- Oracle `SQL`: [[Website](https://www.oracle.com/database/)]
+- Redis `In-Memory`: [[Website](https://redis.io)] *(recommended)*
+- Memcached `In-Memory`: [[Website](https://memcached.org)]
+- Kafka `Distributed Streaming`: [[Website](https://kafka.apache.org)]
 
 ---
 
 ## API Tools
 
-- Postman: [[website](https://www.postman.com)] *(recommended)*
-- Thunder Client: [[website](https://www.thunderclient.com)]
-- Insomnia: [[website](https://insomnia.rest)]
-- Testfully: [[website](https://testfully.io)]
+- Postman: [[Website](https://www.postman.com)] *(recommended)*
+- Thunder Client: [[Website](https://www.thunderclient.com)]
+- Insomnia: [[Website](https://insomnia.rest)]
+- Testfully: [[Website](https://testfully.io)]
 
 ---
 
 ## Application Development
 
-- Gradio: [[website](http://www.gradio.app/)], [[github](https://github.com/gradio-app/gradio)] (recommended)
-- Streamlit: [[website](https://streamlit.io)], [[github](https://github.com/streamlit/streamlit)]
-- Dash: [[website](https://plotly.com/dash)], [[github](https://github.com/plotly/dash)]
-- Panel: [[website](https://panel.holoviz.org/)], [[github](https://github.com/holoviz/panel)]
-- Voila: [[website](https://voila.readthedocs.io/)], [[github](https://github.com/voila-dashboards/voila)]
-- Autogluon: [[website](https://auto.gluon.ai/)], [[github](https://github.com/autogluon/autogluon)]
+- Gradio: [[Website](http://www.gradio.app/)], [[github](https://github.com/gradio-app/gradio)] (recommended)
+- Streamlit: [[Website](https://streamlit.io)], [[github](https://github.com/streamlit/streamlit)]
+- Dash: [[Website](https://plotly.com/dash)], [[github](https://github.com/plotly/dash)]
+- Panel: [[Website](https://panel.holoviz.org/)], [[github](https://github.com/holoviz/panel)]
+- Voila: [[Website](https://voila.readthedocs.io/)], [[github](https://github.com/voila-dashboards/voila)]
+- Autogluon: [[Website](https://auto.gluon.ai/)], [[github](https://github.com/autogluon/autogluon)]
 
 ---
 
 ## Web Hosting Platforms
 
-- HF Spaces: [[website](https://huggingface.co/spaces)]
-- Vercel: [[website](https://vercel.com)]
-- Heroku: [[website](https://www.heroku.com)]
-- Render: [[website](https://render.com)]
-- DigitalOcean: [[website](https://www.digitalocean.com)]
+- HF Spaces: [[Website](https://huggingface.co/spaces)]
+- Vercel: [[Website](https://vercel.com)]
+- Heroku: [[Website](https://www.heroku.com)]
+- Render: [[Website](https://render.com)]
+- DigitalOcean: [[Website](https://www.digitalocean.com)]
 
 ---
 
@@ -153,9 +153,9 @@
 
 ## Error Monitoring Tools
 
-- Sentry: [[website](https://sentry.io/)], [[github](https://github.com/getsentry/sentry)]
+- Sentry: [[Website](https://sentry.io/)], [[github](https://github.com/getsentry/sentry)]
 - Loguru: [[github](https://github.com/Delgan/loguru)]
-- Countly: [[website](https://countly.com/)], [[github](https://github.com/Countly/countly-server)]
+- Countly: [[Website](https://countly.com/)], [[github](https://github.com/Countly/countly-server)]
 - stackprinter: [[github](https://github.com/cknd/stackprinter  )]
 
 ---
@@ -168,14 +168,14 @@
   - [CodeRunner -- Moodle Plugin](https://coderunner.org.nz)
   - [VPL -- Moodle Plugin](https://vpl.dis.ulpgc.es)
 - Integrated Development Environments (IDEs)
-  - VSCode: [[website](https://code.visualstudio.com)] *(recommended)*
-  - PyCharm: [[website](https://www.jetbrains.com/pycharm/)]
-  - Eclipse: [[website](https://www.eclipse.org)]
+  - VSCode: [[Website](https://code.visualstudio.com)] *(recommended)*
+  - PyCharm: [[Website](https://www.jetbrains.com/pycharm/)]
+  - Eclipse: [[Website](https://www.eclipse.org)]
 - Remote Desktop Tools
-  - RustDesk: [[website](https://rustdesk.com)] [[Github](https://github.com/rustdesk/rustdesk)] *(recommended)*
-  - Chrome Remote Desktop: [[website](https://remotedesktop.google.com)]
-  - AnyDesk: [[website](https://anydesk.com/)]
-  - TeamViewer: [[website](https://www.teamviewer.com/)]
+  - RustDesk: [[Website](https://rustdesk.com)] [[Github](https://github.com/rustdesk/rustdesk)] *(recommended)*
+  - Chrome Remote Desktop: [[Website](https://remotedesktop.google.com)]
+  - AnyDesk: [[Website](https://anydesk.com/)]
+  - TeamViewer: [[Website](https://www.teamviewer.com/)]
 - Python environment / package managers
   - pip: [[Website](https://pypi.org)] | [[GitHub](https://github.com/pypa/pip)]
   - pipenv + pyenv: [[Website-pipenv](https://pipenv.pypa.io/en/latest/)] | [[GitHub-pipenv](https://github.com/pypa/pipenv)] | [[Github-pyenv](https://github.com/pyenv/pyenv)] *(recommended)*
