@@ -63,9 +63,9 @@
 
 - Docker: [[Website](https://www.docker.com)] *(recommended)*
 - Kubernetes: [[Website](https://kubernetes.io)] *(recommended)*
-- Incus: [[github](https://github.com/lxc/incus)]
-- Podman: [[github](https://github.com/containers/podman)]
-- Buildah: [[github](https://github.com/containers/buildah)]
+- Incus: [[Github](https://github.com/lxc/incus)]
+- Podman: [[Github](https://github.com/containers/podman)]
+- Buildah: [[Github](https://github.com/containers/buildah)]
 
 ---
 
@@ -111,12 +111,12 @@
 
 ## Application Development
 
-- Gradio: [[Website](http://www.gradio.app/)], [[github](https://github.com/gradio-app/gradio)] (recommended)
-- Streamlit: [[Website](https://streamlit.io)], [[github](https://github.com/streamlit/streamlit)]
-- Dash: [[Website](https://plotly.com/dash)], [[github](https://github.com/plotly/dash)]
-- Panel: [[Website](https://panel.holoviz.org/)], [[github](https://github.com/holoviz/panel)]
-- Voila: [[Website](https://voila.readthedocs.io/)], [[github](https://github.com/voila-dashboards/voila)]
-- Autogluon: [[Website](https://auto.gluon.ai/)], [[github](https://github.com/autogluon/autogluon)]
+- Gradio: [[Website](http://www.gradio.app/)], [[Github](https://github.com/gradio-app/gradio)] (recommended)
+- Streamlit: [[Website](https://streamlit.io)], [[Github](https://github.com/streamlit/streamlit)]
+- Dash: [[Website](https://plotly.com/dash)], [[Github](https://github.com/plotly/dash)]
+- Panel: [[Website](https://panel.holoviz.org/)], [[Github](https://github.com/holoviz/panel)]
+- Voila: [[Website](https://voila.readthedocs.io/)], [[Github](https://github.com/voila-dashboards/voila)]
+- Autogluon: [[Website](https://auto.gluon.ai/)], [[Github](https://github.com/autogluon/autogluon)]
 
 ---
 
@@ -147,16 +147,16 @@
 - Jenkins: [[Wesbite](https://www.jenkins.io/)] | [[Github](https://github.com/jenkinsci/jenkins)]
 - CircleCI: [[Wesbite](https://circleci.com/)]
 - Travis CI: [[Wesbite](https://travis-ci.org/)] | [[Github](https://github.com/travis-ci/travis-ci)]
-- GitHub Actions: [[Wesbite](https://github.com/features/actions)]
+- Github Actions: [[Wesbite](https://github.com/features/actions)]
 
 ---
 
 ## Error Monitoring Tools
 
-- Sentry: [[Website](https://sentry.io/)], [[github](https://github.com/getsentry/sentry)]
-- Loguru: [[github](https://github.com/Delgan/loguru)]
-- Countly: [[Website](https://countly.com/)], [[github](https://github.com/Countly/countly-server)]
-- stackprinter: [[github](https://github.com/cknd/stackprinter  )]
+- Sentry: [[Website](https://sentry.io/)], [[Github](https://github.com/getsentry/sentry)]
+- Loguru: [[Github](https://github.com/Delgan/loguru)]
+- Countly: [[Website](https://countly.com/)], [[Github](https://github.com/Countly/countly-server)]
+- stackprinter: [[Github](https://github.com/cknd/stackprinter  )]
 
 ---
 
@@ -177,11 +177,11 @@
   - AnyDesk: [[Website](https://anydesk.com/)]
   - TeamViewer: [[Website](https://www.teamviewer.com/)]
 - Python environment / package managers
-  - pip: [[Website](https://pypi.org)] | [[GitHub](https://github.com/pypa/pip)]
-  - pipenv + pyenv: [[Website-pipenv](https://pipenv.pypa.io/en/latest/)] | [[GitHub-pipenv](https://github.com/pypa/pipenv)] | [[Github-pyenv](https://github.com/pyenv/pyenv)] *(recommended)*
-  - Poetry: [[Website](https://python-poetry.org/)] | [[GitHub](https://github.com/python-poetry/poetry)]
-  - Conda + mamba: [[Website-Conda](https://docs.conda.io/projects/conda/)] | [[Website-mamba](https://mamba.readthedocs.io/)] | [[GitHub-Conda](https://github.com/conda/conda)] | [[GitHub-mamba](https://github.com/mamba-org/mamba)] 
-  - uv: [[Website](https://docs.astral.sh/uv)] | [[GitHub](https://github.com/astral-sh/uv)] *(recommended)*
+  - pip: [[Website](https://pypi.org)] | [[Github](https://github.com/pypa/pip)]
+  - pipenv + pyenv: [[Website-pipenv](https://pipenv.pypa.io/en/latest/)] | [[Github-pipenv](https://github.com/pypa/pipenv)] | [[Github-pyenv](https://github.com/pyenv/pyenv)] *(recommended)*
+  - Poetry: [[Website](https://python-poetry.org/)] | [[Github](https://github.com/python-poetry/poetry)]
+  - Conda + mamba: [[Website-Conda](https://docs.conda.io/projects/conda/)] | [[Website-mamba](https://mamba.readthedocs.io/)] | [[Github-Conda](https://github.com/conda/conda)] | [[Github-mamba](https://github.com/mamba-org/mamba)] 
+  - uv: [[Website](https://docs.astral.sh/uv)] | [[Github](https://github.com/astral-sh/uv)] *(recommended)*
 - Data Serialization Formats
   - `JSON`: Fast for parsing, used for API communications and web applications.
   - `YAML`: Human-readable format, used for DevOps purposes (i.e. Docker Compose).
