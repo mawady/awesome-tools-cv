@@ -15,6 +15,7 @@
 > * **[Storage](#storage)**
 > * **[API Tools](#api-tools)**
 > * **[Application Development](#application-development)**
+> * **[Live Demo](#live-demo)**
 > * **[Web Hosting Platforms](#web-hosting-platforms)**
 > * **[Application Testing](#application-testing)**
 > * **[Continuous Integration (CI) and Continuous Deployment (CD)](#continuous-integration-ci-and-continuous-deployment-cd)**
@@ -114,18 +115,24 @@
 
 ## Application Development
 
-* Gradio: [[Website](http://www.gradio.app/)], [[Github](https://github.com/gradio-app/gradio)] (recommended)
-* Streamlit: [[Website](https://streamlit.io)], [[Github](https://github.com/streamlit/streamlit)]
-* Dash: [[Website](https://plotly.com/dash)], [[Github](https://github.com/plotly/dash)]
-* Panel: [[Website](https://panel.holoviz.org/)], [[Github](https://github.com/holoviz/panel)]
-* Voila: [[Website](https://voila.readthedocs.io/)], [[Github](https://github.com/voila-dashboards/voila)]
-* Autogluon: [[Website](https://auto.gluon.ai/)], [[Github](https://github.com/autogluon/autogluon)]
+* Gradio: [[Website](http://www.gradio.app/)] | [[Github](https://github.com/gradio-app/gradio)] (recommended)
+* Streamlit: [[Website](https://streamlit.io)] | [[Github](https://github.com/streamlit/streamlit)]
+* Dash: [[Website](https://plotly.com/dash)] | [[Github](https://github.com/plotly/dash)]
+* Panel: [[Website](https://panel.holoviz.org/)] | [[Github](https://github.com/holoviz/panel)]
+* Voila: [[Website](https://voila.readthedocs.io/)] | [[Github](https://github.com/voila-dashboards/voila)]
+* Autogluon: [[Website](https://auto.gluon.ai/)] | [[Github](https://github.com/autogluon/autogluon)]
+
+---
+
+## Live Demo
+
+* HF Spaces: [[Website](https://huggingface.co/spaces)]
+* [Replicate](https://replicate.com/explore)
 
 ---
 
 ## Web Hosting Platforms
 
-* HF Spaces: [[Website](https://huggingface.co/spaces)]
 * Vercel: [[Website](https://vercel.com)]
 * Heroku: [[Website](https://www.heroku.com)]
 * Render: [[Website](https://render.com)]
@@ -156,9 +163,9 @@
 
 ## Error Monitoring Tools
 
-* Sentry: [[Website](https://sentry.io/)], [[Github](https://github.com/getsentry/sentry)]
+* Sentry: [[Website](https://sentry.io/)] | [[Github](https://github.com/getsentry/sentry)]
 * Loguru: [[Github](https://github.com/Delgan/loguru)]
-* Countly: [[Website](https://countly.com/)], [[Github](https://github.com/Countly/countly-server)]
+* Countly: [[Website](https://countly.com/)] | [[Github](https://github.com/Countly/countly-server)]
 * stackprinter: [[Github](https://github.com/cknd/stackprinter  )]
 
 ---
