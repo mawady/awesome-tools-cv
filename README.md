@@ -15,7 +15,6 @@
 > * **[Storage](#storage)**
 > * **[API Tools](#api-tools)**
 > * **[Application Development](#application-development)**
-> * **[Live Demo](#live-demo)**
 > * **[Web Hosting Platforms](#web-hosting-platforms)**
 > * **[Application Testing](#application-testing)**
 > * **[Continuous Integration (CI) and Continuous Deployment (CD)](#continuous-integration-ci-and-continuous-deployment-cd)**
@@ -124,15 +123,10 @@
 
 ---
 
-## Live Demo
-
-* HF Spaces: [[Website](https://huggingface.co/spaces)]
-* [Replicate](https://replicate.com/explore)
-
----
-
 ## Web Hosting Platforms
 
+* HF Spaces: [[Website](https://huggingface.co/spaces)]
+* Replicate: [[Website](https://replicate.com/explore)]
 * Vercel: [[Website](https://vercel.com)]
 * Heroku: [[Website](https://www.heroku.com)]
 * Render: [[Website](https://render.com)]
