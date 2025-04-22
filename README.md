@@ -1,8 +1,10 @@
 # A Curated List of Development and Deployment Tools for Computer Vision Projects in Python
 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/mawady/awesome-academic)
+
 ---
 
-## Table of Contents
+## Contents
 >
 > * **[Deep Learning Frameworks](#deep-learning-frameworks)**
 > * **[Data Augmentation Frameworks](#data-augmentation-frameworks)**
