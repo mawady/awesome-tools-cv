@@ -1,6 +1,6 @@
 # A Curated List of Development and Deployment Tools for Computer Vision Projects in Python
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/mawady/awesome-academic)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/mawady/awesome-tools-cv)
 
 ---
 
