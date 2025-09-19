@@ -55,6 +55,7 @@
 * TensorFlow Extended (TFX) `Workflow Orchestration`: [[Website](https://tensorflow.github.io/tfx/)] | [[Github](https://github.com/tensorflow/tfx)]
 * MLflow `Experiment Tracking & Management`: [[Website](https://mlflow.org)] |[[Github](https://github.com/mlflow/mlflow)] *(recommended for commercial use)*
 * WandB `Experiment Tracking & Management`: [[Website](https://wandb.ai)] | [[Github](https://github.com/wandb/wandb)] *(recommended for personal & academic use)*
+* TrackIO `Experiment Tracking & Management`: [[Website](https://huggingface.co/docs/trackio/index)] | [[Github](https://github.com/gradio-app/trackio)] *(easy-to-use and similar to WandB)*
 * neptune ai `Experiment Tracking & Management`: [[Website](https://neptune.ai)] |[[Github](https://github.com/neptune-ai/neptune-client)]
 * ClearML `Experiment Tracking & Management`: [[Website](https://clear.ml)] | [[Github](https://github.com/clearml/clearml)]
 * TensorBoard `Experiment Tracking & Management`: [[Website](https://www.tensorflow.org/tensorboard)] | [[Github](https://github.com/tensorflow/tensorboard)]
