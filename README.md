@@ -36,9 +36,10 @@
 
 ## Data Augmentation Frameworks
 
-* albumentations: [[Website](https://albumentations.ai)] *(recommended)*
-* imgaug: [[Website](https://imgaug.readthedocs.io/en/latest/)]
-* augmentor: [[Website](https://augmentor.readthedocs.io/en/master/)]
+* AlbumentationsX: [[Github](https://github.com/albumentations-team/AlbumentationsX)] *(recommended)*
+* albumentations: [[Website](https://albumentations.ai)] | [[Github](https://github.com/albumentations-team/albumentations)]
+* imgaug: [[Website](https://imgaug.readthedocs.io/en/latest/)] | [[Github](https://github.com/aleju/imgaug)]
+* augmentor: [[Website](https://augmentor.readthedocs.io/en/master/)] | [[Github](https://github.com/mdbloice/Augmentor)]
 
 ---
 
