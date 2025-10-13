@@ -37,9 +37,9 @@
 ## Data Augmentation Frameworks
 
 * AlbumentationsX: [[Github](https://github.com/albumentations-team/AlbumentationsX)] *(recommended)*
-* albumentations: [[Website](https://albumentations.ai)] | [[Github](https://github.com/albumentations-team/albumentations)]
-* imgaug: [[Website](https://imgaug.readthedocs.io/en/latest/)] | [[Github](https://github.com/aleju/imgaug)]
-* augmentor: [[Website](https://augmentor.readthedocs.io/en/master/)] | [[Github](https://github.com/mdbloice/Augmentor)]
+* albumentations: [[Github](https://github.com/albumentations-team/albumentations)] *(archived-Jul2025)*
+* imgaug: [[Website](https://imgaug.readthedocs.io/en/latest/)] | [[Github](https://github.com/aleju/imgaug)] *(lastActive-Jun2020)*
+* augmentor: [[Website](https://augmentor.readthedocs.io/en/master/)] | [[Github](https://github.com/mdbloice/Augmentor)] *(lastActive-Mar2023)*
 
 ---
 
@@ -71,6 +71,7 @@
 * Incus: [[Github](https://github.com/lxc/incus)]
 * Podman: [[Github](https://github.com/containers/podman)]
 * Buildah: [[Github](https://github.com/containers/buildah)]
+* container: [[Github](https://github.com/apple/container)]
 
 ---
 
