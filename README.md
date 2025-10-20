@@ -178,8 +178,9 @@
   * VSCode: [[Website](https://code.visualstudio.com)] *(recommended)*
   * PyCharm: [[Website](https://www.jetbrains.com/pycharm/)]
   * Eclipse: [[Website](https://www.eclipse.org)]
+  * Zed: [[Website](https://zed.dev/)] | [[Github](https://github.com/zed-industries/zed)] *(recommended)*
 * Remote Desktop Tools
-  * RustDesk: [[Website](https://rustdesk.com)] [[Github](https://github.com/rustdesk/rustdesk)] *(recommended)*
+  * RustDesk: [[Website](https://rustdesk.com)] | [[Github](https://github.com/rustdesk/rustdesk)] *(recommended)*
   * Chrome Remote Desktop: [[Website](https://remotedesktop.google.com)]
   * AnyDesk: [[Website](https://anydesk.com/)]
   * TeamViewer: [[Website](https://www.teamviewer.com/)]
