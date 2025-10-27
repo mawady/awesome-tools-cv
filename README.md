@@ -109,8 +109,9 @@
 ## API Tools
 
 * Postman: [[Website](https://www.postman.com)] *(recommended)*
-* Thunder Client: [[Website](https://www.thunderclient.com)]
-* Insomnia: [[Website](https://insomnia.rest)]
+* Bruno: [[Github](https://github.com/usebruno/bruno)]
+* Hoppscotch: [[Github](https://github.com/hoppscotch/hoppscotch)]
+* Insomnia:  [[Github](https://github.com/Kong/insomnia)]
 * Testfully: [[Website](https://testfully.io)]
 
 ---
